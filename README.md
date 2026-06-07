@@ -1,0 +1,1 @@
+# SpeedRunner_ver.CoinGetter
