@@ -30,9 +30,11 @@ Physics.CheckSphere を用いた接地判定により、ジャンプおよび攻
 BGM をシーンに応じて切り替えるシングルトン型のオーディオマネージャーを実装。
 
 ## 実行方法
-Build.zip解凍後contest_3D.exeを実行
+https://github.com/HARUKI-KOMACHI/SpeedRunner_ver.CoinGetter/releases
 
-制作期間：[約2か月]（1年次）
+上記のリンクよりRelease.zipを解凍しBuild.zip解凍後contest_3D.exeを実行
+
+制作期間：約2か月（1年次）
 
 制作人数：個人制作
 
