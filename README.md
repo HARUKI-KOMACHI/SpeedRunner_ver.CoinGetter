@@ -27,8 +27,6 @@ Physics.CheckSphere を用いた接地判定により、ジャンプおよび攻
 
 逆メッシュコライダーを使用したステージ境界システムにより、見えない壁でプレイヤーをステージ内に閉じ込める処理を実装。
 
-BGM をシーンに応じて切り替えるシングルトン型のオーディオマネージャーを実装。
-
 ## 実行方法
 https://github.com/HARUKI-KOMACHI/SpeedRunner_ver.CoinGetter/releases
 
