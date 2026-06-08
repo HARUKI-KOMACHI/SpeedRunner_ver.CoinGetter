@@ -2,6 +2,10 @@
 ## ゲーム概要
 破壊可能なオブジェクトをすべて破壊してゴールを目指す3Dソードアクションゲーム。近距離の剣攻撃と遠距離のスラッシュ攻撃を使い分け、タイムを競う。
 
+※ファイル容量の関係上下記リンク先のzipファイル内に実行動画があります
+
+https://github.com/HARUKI-KOMACHI/SpeedRunner_ver.CoinGetter/releases/tag/movvie
+
 ## 操作方法
 WASD / 矢印キー：移動
 
